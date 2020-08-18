@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background-color: black;
+}
+.btn{
+    height: 30px;
+    width: 80px;
+    border: 1px solid gold;
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+
+}
+.btn:hover{
+    color: #ffa502;
+    box-shadow:0 0 15px #d35400;
+    text-shadow: 0 0 15px #d35400;
+}
